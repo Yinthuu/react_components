@@ -7,14 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>I make a change!</h1>
         <CompA/>
-        <p>B make a change!!!</p>
-<<<<<<< HEAD
-        <p>B change second time!!!</p>
-=======
-        <p>A make a change!!!</p>
->>>>>>> origin/master
       </header>
     </div>
   );

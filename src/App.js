@@ -10,6 +10,7 @@ function App() {
         <h1>I make a change!</h1>
         <CompA/>
         <p>B make a change!!!</p>
+        <p>B change second time!!!</p>
       </header>
     </div>
   );

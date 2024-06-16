@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>I make a change!</h1>
         <CompA/>
       </header>
     </div>

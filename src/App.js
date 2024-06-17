@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <CompA/>
         <h6>I am A1.</h6>
+        <h6>I am A2.</h6>
       </header>
     </div>
   );

@@ -10,6 +10,7 @@ function App() {
         <CompA/>
         <h6>I am A1.</h6>
         <h6>I am A2.</h6>
+        <h6>I am A3.</h6>
       </header>
     </div>
   );
